@@ -13,4 +13,7 @@ download chromedriver to your computer (for selenium)
 step 4 
 node start app.js
 
+NOTE: You need to add the 'keywords' folder
+
+
 look this: https://www.npmjs.com/package/selenium-webdriver
